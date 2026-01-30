@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="190">
+  <rect width="650" height="190" rx="14" fill="#282a36"/>
+  <text x="20" y="35" font-family="Fira Code, monospace" font-size="18" fill="#ffb86c">
+    Achievements
+  </text>
+  <text x="20" y="60" font-family="Fira Code, monospace" font-size="14" fill="#f8f8f2">🏆 455+ LeetCode Problems Solved</text>
+<text x="20" y="82" font-family="Fira Code, monospace" font-size="14" fill="#f8f8f2">🧠 AI/ML Projects (Healthcare + Analytics)</text>
+<text x="20" y="104" font-family="Fira Code, monospace" font-size="14" fill="#f8f8f2">🌍 Open Source Contributor</text>
+<text x="20" y="126" font-family="Fira Code, monospace" font-size="14" fill="#f8f8f2">📊 Streamlit Dashboards</text>
+<text x="20" y="148" font-family="Fira Code, monospace" font-size="14" fill="#f8f8f2">🐳 Docker + SQL + GitHub</text>
+</svg>

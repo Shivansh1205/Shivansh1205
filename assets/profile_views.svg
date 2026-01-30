@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="40">
+  <rect width="260" height="40" rx="10" fill="#282a36"/>
+  <text x="16" y="25" font-family="Fira Code, monospace" font-size="14" fill="#bd93f9">
+    👀 Profile Views: 1
+  </text>
+</svg>

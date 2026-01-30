@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="160">
+  <rect width="320" height="160" rx="14" fill="#282a36"/>
+  <text x="20" y="35" font-family="Fira Code, monospace" font-size="18" fill="#50fa7b">
+    Top Languages
+  </text>
+  <text x="20" y="70" font-family="Fira Code, monospace" font-size="14" fill="#f8f8f2">1. TypeScript</text>
+<text x="20" y="92" font-family="Fira Code, monospace" font-size="14" fill="#f8f8f2">2. Jupyter Notebook</text>
+<text x="20" y="114" font-family="Fira Code, monospace" font-size="14" fill="#f8f8f2">3. Python</text>
+<text x="20" y="136" font-family="Fira Code, monospace" font-size="14" fill="#f8f8f2">4. MDX</text>
+<text x="20" y="158" font-family="Fira Code, monospace" font-size="14" fill="#f8f8f2">5. Go</text>
+</svg>
